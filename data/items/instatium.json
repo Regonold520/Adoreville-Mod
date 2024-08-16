@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"instatium",
+  "displayname":"Instatium",
+  "bulletdata":{
+    "damage": 5
+  },
+  "recipedata": {
+    "def:furnace": "instatiumbar"
+  }
+}

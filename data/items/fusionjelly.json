@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"fusionjelly",
+  "displayname":"Fusion Jelly",
+  "bulletdata":{
+    "damage": 6
+  },
+  "recipedata": {"hardenedgyratine.tyratine": {"def:constructor": "fusionjelly"},
+    "fusionjelly.mechanicalhoney": {"def:constructor": "microljel"}}
+}

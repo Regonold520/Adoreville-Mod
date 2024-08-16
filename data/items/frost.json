@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"frost",
+  "displayname":"Frost",
+  "bulletdata":{
+    "damage": 2,
+    "freeze": [3,15]
+  },
+  "recipedata": {}
+}

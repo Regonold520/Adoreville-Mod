@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"altroite",
+  "displayname":"Altroite",
+  "bulletdata":{
+    "damage": 7,
+    "freeze": [3,15]
+  },
+  "recipedata": {"instatiumbar.microlpowder": {"def:constructor": "altroite"}}
+}

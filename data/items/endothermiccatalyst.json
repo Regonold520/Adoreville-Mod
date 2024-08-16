@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"endothermiccatalyst",
+  "displayname":"Endothermic Catalyst",
+  "bulletdata":{
+    "damage": 4,
+    "freeze": [3,15]
+  },
+  "recipedata": {"enchantedwater.frost": {"def:constructor": "endothermiccatalyst"}}
+}

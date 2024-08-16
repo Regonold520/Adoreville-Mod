@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"obsidian",
+  "displayname":"Obsidian",
+  "bulletdata":{
+    "damage": 4
+  },
+  "recipedata": {"enchantedwater.lava": {"def:constructor": "obsidian"},
+    "cryonic.obsidian": {"def:constructor": "instatium"}}
+}

@@ -1,0 +1,11 @@
+﻿{
+  "internalname":"honey",
+  "displayname":"Honey",
+  "bulletdata":{
+    "damage": 2
+  },
+  "recipedata": {
+    "counterpart": "mechanicalhoney",
+    "def:refiner": "honnite"
+  }
+}

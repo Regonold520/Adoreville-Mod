@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"honnite",
+  "displayname":"Honnite",
+  "bulletdata":{
+    "damage": 4
+  },
+  "recipedata": {
+    "def:refiner": "honnitebullet"
+  }
+}

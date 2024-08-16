@@ -1,0 +1,8 @@
+﻿{
+  "internalname":"honnitebullet",
+  "displayname":"Honnite Bullet",
+  "bulletdata":{
+    "damage": 6
+  },
+  "recipedata": {}
+}

@@ -1,0 +1,11 @@
+﻿{
+  "internalname":"altroticbullet",
+  "displayname":"Altrotic Bullet",
+  "bulletdata":{
+    "damage": 15,
+    "freeze": [3,15],
+    "burn": [3,0.01],
+    "scatter": 4
+  },
+  "recipedata": {"altroite.def:superscatter": {"def:constructor": "altroticbullet"}}
+}

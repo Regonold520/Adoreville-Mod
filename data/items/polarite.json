@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"polarite",
+  "displayname":"Polarite",
+  "bulletdata":{
+    "damage": 3,
+    "freeze": [2,10]
+  },
+  "recipedata": {"frost.honey": {"def:constructor": "polarite"}}
+}

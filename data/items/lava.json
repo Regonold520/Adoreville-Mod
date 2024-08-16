@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"lava",
+  "displayname":"Enchanted Lava",
+  "bulletdata":{
+    "damage": 2
+  },
+  "recipedata": {
+    "counterpart": "enchantedwater"
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"mechanicalhoney",
+  "displayname":"Mechanical Honey",
+  "bulletdata":{
+    "damage": 4
+  },
+  "recipedata": {
+    "counterpart": "honey"
+  }
+}

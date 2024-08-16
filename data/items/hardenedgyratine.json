@@ -1,0 +1,8 @@
+﻿{
+  "internalname":"hardenedgyratine",
+  "displayname":"Hardened Gyratine",
+  "bulletdata":{
+    "damage": 3
+  },
+  "recipedata": {"gyratine.def:stone": {"def:constructor": "hardenedgyratine"}}
+}

@@ -1,0 +1,9 @@
+﻿{
+  "internalname":"cryonic",
+  "displayname":"Cryonic",
+  "bulletdata":{
+    "damage": 3,
+    "freeze": [6,20]
+  },
+  "recipedata": {"endothermiccatalyst.polarite": {"def:constructor": "cryonic"}}
+}

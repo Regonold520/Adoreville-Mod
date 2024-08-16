@@ -1,0 +1,10 @@
+﻿{
+  "internalname":"microljel",
+  "displayname":"Microljel",
+  "bulletdata":{
+    "damage": 5
+  },
+  "recipedata": {
+    "def:furnace": "microlpowder"
+  }
+}

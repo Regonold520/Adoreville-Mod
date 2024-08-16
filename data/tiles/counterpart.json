@@ -1,0 +1,14 @@
+﻿{
+  "internalname": "counterpart",
+  "displayname": "Counterpart Converter",
+  "sizex": 2,
+  "sizey": 2,
+  "inputside": {"pos":"(1, 0)","side":"east"},
+  "outputside": {"pos":"(0, -1)","side":"north"},
+  "showprogress":true,
+  "worktime":7,
+  "freeinput":false,
+  "price":1000,
+  "subtype":"converters",
+  "displaytype": "adoreville"
+}

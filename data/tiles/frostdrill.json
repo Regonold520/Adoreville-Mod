@@ -1,0 +1,15 @@
+﻿{
+  "internalname": "frostdrill",
+  "displayname": "Frost Drill",
+  "sizex": 1,
+  "sizey": 1,
+  "inputside": "null",
+  "outputside": "west",
+  "showprogress":true,
+  "worktime":1,
+  "freeinput":false,
+  "price":700,
+  "subtype":"producers",
+  "material":"frost",
+  "displaytype": "adoreville"
+}

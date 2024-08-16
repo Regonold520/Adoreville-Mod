@@ -1,0 +1,8 @@
+﻿{
+  "internalname":"tyratine",
+  "displayname":"Tyratine",
+  "bulletdata":{
+    "damage": 3
+  },
+  "recipedata": {"counterpart": "gyratine"}
+}
